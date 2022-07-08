@@ -30,8 +30,8 @@ require('load-grunt-tasks')(grunt);
 
 ## Install
 
-```
-$ npm install --save-dev load-grunt-tasks
+```sh
+npm install --save-dev load-grunt-tasks
 ```
 
 

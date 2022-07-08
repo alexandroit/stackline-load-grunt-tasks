@@ -4,11 +4,13 @@
 	"description": "Load multiple grunt tasks using globbing patterns",
 	"license": "MIT",
 	"repository": "sindresorhus/load-grunt-tasks",
+	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
+	"sideEffects": false,
 	"engines": {
 		"node": ">=8"
 	},
