@@ -4,7 +4,7 @@
     {
       "name": "@stackline/load-grunt-tasks",
       "path": "readme.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -26,8 +26,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/load-grunt-tasks/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/load-grunt-tasks/-/load-grunt-tasks-1.0.0.tgz",
       "baselineIntegrity": "sha512-SHLog1M/WsFGUNVqyXC/ef9lRmuZs+wbQxN4+ZBcOws1LgbUgN11HGzxdSJIxkT4XM6dOrOB2S7eKXoETJULPw==",
-      "expectedSha512": "609d85001ea8ff2b824a0c0942316ec9cf128375f986278549688d3043d2fd597a76ff2b3c90978eaa4ab73c9de7b18cde9dded195cdc14b5970e4646568119d",
-      "tag": "docs-stackline-load-grunt-tasks-v1.0.1"
+      "expectedSha512": "6a755c541e1e2bcfed9e65de57adb56a2bf08c4c84a6a0cdf27e03915ce23597ddadc5ee7ba5aba00d73daa7d50e76cd6bab644c03a82df312ecd9e9561c12d8",
+      "tag": "docs-stackline-load-grunt-tasks-v1.0.2"
     }
   ]
 }
