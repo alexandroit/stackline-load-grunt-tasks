@@ -4,13 +4,13 @@
 
 [![npm version](https://img.shields.io/npm/v/@stackline/load-grunt-tasks.svg?style=flat-square)](https://www.npmjs.com/package/@stackline/load-grunt-tasks)
 [![license](https://img.shields.io/npm/l/@stackline/load-grunt-tasks.svg?style=flat-square)](https://github.com/alexandroit/stackline-load-grunt-tasks)
-[![GitHub repository](https://img.shields.io/badge/GitHub-alexandroit%2Fstackline-load-grunt-tasks-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-load-grunt-tasks)
+[![GitHub repository](https://img.shields.io/badge/GitHub-repository-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-load-grunt-tasks)
 [![Docs](https://img.shields.io/badge/docs-alexandro.net-0f766e?style=flat-square)](https://alexandro.net/docs/vanilla/load-grunt-tasks/)
 [![Reddit community](https://img.shields.io/badge/community-r%2FStackline-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/Stackline/)
 
 **[Documentation](https://alexandro.net/docs/vanilla/load-grunt-tasks/)** | **[npm](https://www.npmjs.com/package/@stackline/load-grunt-tasks)** | **[Issues](https://github.com/alexandroit/stackline-load-grunt-tasks/issues)** | **[Repository](https://github.com/alexandroit/stackline-load-grunt-tasks)**
 
-**Current package version:** `1.0.1`
+**Current package version:** `1.0.2`
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Item | Value |
 | :--- | :--- |
-| Package | `@stackline/load-grunt-tasks@1.0.1` |
+| Package | `@stackline/load-grunt-tasks@1.0.2` |
 | API target | `load-grunt-tasks@5.1.0` |
 | Supported Node.js | `>=8` |
 | License | `MIT` |
