@@ -1,0 +1,33 @@
+{
+  "repository": "alexandroit/stackline-load-grunt-tasks",
+  "packages": [
+    {
+      "name": "@stackline/load-grunt-tasks",
+      "path": "readme.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "load-grunt-tasks",
+        "grunt-plugin",
+        "nodejs",
+        "dependencies",
+        "glob",
+        "grunt",
+        "load",
+        "match",
+        "matchdep",
+        "pattern",
+        "require",
+        "tasks",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/load-grunt-tasks/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/load-grunt-tasks/-/load-grunt-tasks-1.0.0.tgz",
+      "baselineIntegrity": "sha512-SHLog1M/WsFGUNVqyXC/ef9lRmuZs+wbQxN4+ZBcOws1LgbUgN11HGzxdSJIxkT4XM6dOrOB2S7eKXoETJULPw==",
+      "expectedSha512": "609d85001ea8ff2b824a0c0942316ec9cf128375f986278549688d3043d2fd597a76ff2b3c90978eaa4ab73c9de7b18cde9dded195cdc14b5970e4646568119d",
+      "tag": "docs-stackline-load-grunt-tasks-v1.0.1"
+    }
+  ]
+}
