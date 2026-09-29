@@ -1,6 +1,6 @@
 {
   "name": "@stackline/load-grunt-tasks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load multiple grunt tasks using globbing patterns",
   "license": "MIT",
   "repository": {
@@ -30,6 +30,11 @@
     "readme.md"
   ],
   "keywords": [
+    "stackline",
+    "npm-package",
+    "load-grunt-tasks",
+    "grunt-plugin",
+    "nodejs",
     "dependencies",
     "glob",
     "grunt",
@@ -39,7 +44,6 @@
     "pattern",
     "require",
     "tasks",
-    "stackline",
     "maintenance-fork"
   ],
   "dependencies": {
@@ -59,7 +63,7 @@
   "bugs": {
     "url": "https://github.com/alexandroit/stackline-load-grunt-tasks/issues"
   },
-  "homepage": "https://github.com/alexandroit/stackline-load-grunt-tasks#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/load-grunt-tasks/",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
