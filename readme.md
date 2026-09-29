@@ -1,3 +1,19 @@
+# @stackline/load-grunt-tasks
+
+Independent maintenance fork of `load-grunt-tasks@5.1.0`. Original API, module format, runtime dependency ranges, and supported Node.js engines are preserved.
+
+```sh
+npm install @stackline/load-grunt-tasks
+# Preserve existing imports with an npm alias:
+npm install load-grunt-tasks@npm:@stackline/load-grunt-tasks@1.0.0
+```
+
+See [UPSTREAM.md](UPSTREAM.md) for the exact source and issue review, and [CHANGELOG.md](CHANGELOG.md) for focused maintenance changes. Development and release tooling runs on Node.js 24; that does not change the library runtime requirement.
+
+Maintained by [Stackline](https://alexandro.net/). [Issues](https://github.com/alexandroit/stackline-load-grunt-tasks/issues) · [npm](https://www.npmjs.com/package/@stackline/load-grunt-tasks).
+
+## Upstream documentation
+
 # load-grunt-tasks [![Build Status](https://travis-ci.org/sindresorhus/load-grunt-tasks.svg?branch=master)](https://travis-ci.org/sindresorhus/load-grunt-tasks)
 
 > Load multiple grunt tasks using globbing patterns

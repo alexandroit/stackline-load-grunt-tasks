@@ -1,47 +1,67 @@
 {
-	"name": "load-grunt-tasks",
-	"version": "5.1.0",
-	"description": "Load multiple grunt tasks using globbing patterns",
-	"license": "MIT",
-	"repository": "sindresorhus/load-grunt-tasks",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
-	},
-	"engines": {
-		"node": ">=8"
-	},
-	"scripts": {
-		"test": "xo && grunt"
-	},
-	"files": [
-		"index.js"
-	],
-	"keywords": [
-		"dependencies",
-		"glob",
-		"grunt",
-		"load",
-		"match",
-		"matchdep",
-		"pattern",
-		"require",
-		"tasks"
-	],
-	"dependencies": {
-		"arrify": "^2.0.1",
-		"multimatch": "^4.0.0",
-		"pkg-up": "^3.1.0",
-		"resolve-pkg": "^2.0.0"
-	},
-	"devDependencies": {
-		"grunt": "^1.0.1",
-		"grunt-cli": "^1.2.0",
-		"grunt-svgmin": "^6.0.0",
-		"xo": "^0.24.0"
-	},
-	"peerDependencies": {
-		"grunt": ">=1"
-	}
+  "name": "@stackline/load-grunt-tasks",
+  "version": "1.0.0",
+  "description": "Load multiple grunt tasks using globbing patterns",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandroit/stackline-load-grunt-tasks.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "grunt && node test/stackline.cjs",
+    "test:package": "node scripts/test-package.mjs"
+  },
+  "files": [
+    "index.js",
+    "LICENSE*",
+    "license*",
+    "NOTICE",
+    "UPSTREAM.md",
+    "CHANGELOG.md",
+    "README.md",
+    "readme.md"
+  ],
+  "keywords": [
+    "dependencies",
+    "glob",
+    "grunt",
+    "load",
+    "match",
+    "matchdep",
+    "pattern",
+    "require",
+    "tasks",
+    "stackline",
+    "maintenance-fork"
+  ],
+  "dependencies": {
+    "arrify": "^2.0.1",
+    "multimatch": "^4.0.0",
+    "pkg-up": "^3.1.0",
+    "resolve-pkg": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "1.6.3",
+    "grunt-cli": "1.5.0",
+    "grunt-svgmin": "7.0.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=1"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandroit/stackline-load-grunt-tasks/issues"
+  },
+  "homepage": "https://github.com/alexandroit/stackline-load-grunt-tasks#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
 }

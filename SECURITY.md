@@ -1,0 +1,1 @@
+Report suspected vulnerabilities privately through this repository's Security advisories tab. Please include the affected version and a minimal reproduction. Do not disclose secrets or customer data in public issues.

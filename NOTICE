@@ -1,0 +1,4 @@
+This is an independent maintenance fork of load-grunt-tasks 5.1.0.
+Upstream source commit: fddcf81829b1e88f3daf855ea2aa759224dec98a
+The upstream license and author notices are retained unchanged.
+Stackline changes are documented in CHANGELOG.md. No upstream endorsement is implied.
